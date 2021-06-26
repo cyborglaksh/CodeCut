@@ -1,0 +1,17 @@
+body{
+    min-width: 400px;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid #504193;
+    margin-bottom: 4px;
+}
+button {
+    background: #504193;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-weight: bold;
+}
