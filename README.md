@@ -18,7 +18,7 @@ Advantages:
 
 Authors:
 
-  - Laksh Gupta   - Created Frotend for the Extension  - (https://github.com/cyborglaksh)
+  - Laksh Gupta   - Created Frontend for the Extension  - (https://github.com/cyborglaksh)
   - Anushka Gupta - Extended features for the Extension - (https://github.com/anushka645) 
 
 Acknowledgments
