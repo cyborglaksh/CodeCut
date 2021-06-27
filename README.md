@@ -1,2 +1,3 @@
 # CodeCut
-A Google Chrome extension for the ease of the upcoming young achievers in Field of Computer Science 
+CodeCut is a Google Chrome extension for the ease of the upcoming young achievers in Field of Computer Science.It displays a list of popular websites filtered on the basis of different categories like Competitive Programming, Development etc. so that a person can quickly reach out to websites related to the fields he/she is interested in.
+It also helps to quickly save the URL of a webpage, so that we can access them anytime later. This is a useful option to make a note of important webpages and read it later when we have time. The default bookmarking options in Google Chrome allows you to add, delete, import and export the URLs. However, we can use this extension to save tabs and get all the information at one place like the sites we want to visit based on our interest and the tabs we saved to view later.
