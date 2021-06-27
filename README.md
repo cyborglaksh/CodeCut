@@ -18,8 +18,8 @@ Advantages:
 
 Authors:
 
-  -> Laksh Gupta   - Created Frotend for the Extension  - (https://github.com/cyborglaksh)
-  -> Anushka Gupta - Extended features for the Extension - (https://github.com/anushka645) 
+  - Laksh Gupta   - Created Frotend for the Extension  - (https://github.com/cyborglaksh)
+  - Anushka Gupta - Extended features for the Extension - (https://github.com/anushka645) 
 
 Acknowledgments
 A very heartful thanks to all the platforms who have been providing resources to learn and grow.
