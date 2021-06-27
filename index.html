@@ -27,12 +27,12 @@
         </p>
     </div>
     
-    <button id="tabBtn">Save Tab</button>
+    <button id="tabBtn">Save Current Tab</button>
     <button id="deleteBtn">Delete All Saved Tabs</button>
     <ul id="listUrl"></ul>
     <button class="accordion dropdown-toggle w3-left-align w3-block service">Competitive Programming</button>
     <div class="panel">
-    <div>
+    
             
         <div><a href="https://www.hackerrank.com/" target = "_blank"><img src="./images/icons/Competitive Programming/hackerrank.svg" alt="" class="service-icon">Hackerrank</a></div>
   
@@ -55,12 +55,12 @@
         <a href="https://atcoder.jp/" target = "_blank"><img src="./images/icons/Competitive Programming/Atcoder.svg" alt="" class="service-icon">Atcoder</a>
     </div>
     
- </div> 
+
 </div>
 
-<button class="accordion btn dropdown-toggle w3-left-align w3-block service">Community Services</button>
+<button class="accordion dropdown-toggle w3-left-align w3-block service">Community Services</button>
 <div class="panel">
-    <div>
+    
         <div>
             <a href="https://dev.to/" target = "_blank"><img src="./images/icons/Community/bxl-dev-to.svg" alt="" class="service-icon">Dev</a>
         </div>
@@ -76,12 +76,17 @@
         <div>
             <a href="https://stackoverflow.com/" target = "_blank"><img src="./images/icons/Community/stack-overflow.svg" alt="" class="service-icon">Stack-OverFlow</a>
         </div>
+        <div>
+            <a href="https://slack.com" target="_blank"><img src="./images/icons/Community/slack-new-logo.svg">Slack</a>
+        </div>
+        
+
      
-    </div>
+    
 </div>
-<button class="accordion btn dropdown-toggle w3-left-align w3-block service">Development</button>
+<button class="accordion dropdown-toggle w3-left-align w3-block service">Development Resources</button>
     <div class="panel">
-    <div>
+    
             
         <div><a href="https://codepen.io/" target = "_blank"><img src="./images/icons/Development/codepen.svg" alt="" class="service-icon">Codepen</a></div>
   
@@ -101,11 +106,30 @@
         <a href="https://codesandbox.io/" target = "_blank"><img src="./images/icons/Development/SandBox.ico" alt="" class="service-icon">CodeSandBox</a> 
     </div>
     
- </div> 
+ 
 </div>
-<button class="accordion btn dropdown-toggle w3-left-align w3-block service">Saved Tabs</button>
-<div class="panel">
-  <div id="savedTabs"></div>
+<button class="accordion dropdown-toggle w3-left-align w3-block service">Open Source Resources</button>
+    <div class="panel">
+    
+            
+        <div><a href="https://fellowship.mlh.io/" target = "_blank"><img src="./images/icons/Open Source/mlh.svg" alt="" class="service-icon">MLH Fellowship</a></div>
+  
+        <div><a href="https://summerofcode.withgoogle.com/" target = "_blank"><img src="./images/icons/Open Source/GSoC_logo.svg" alt="" class="service-icon"> GSOC</a>
+        </div>
+        <div>
+        <a href="https://hacktoberfest.digitalocean.com/" target = "_blank"><img src="./images/icons/Open Source/hacktoberfest.png" alt="" class="service-icon">HacktoberFest</a>
+        </div>
+        <div>
+            <a href="https://www.outreachy.org/" target="_blank"><img src="./images/icons/Open Source/outreachy.png">Outreachy</a>
+        </div>
+        
+        
+    
+ 
+</div>
+<button class="accordion dropdown-toggle w3-left-align w3-block service">User Saved Tabs</button>
+<div class="panel" id="savedTabs">
+  
 </div>
 
     <script src="./script.js"></script>
