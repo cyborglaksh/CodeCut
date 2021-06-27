@@ -45,11 +45,9 @@ function render(listOFlinks){
         listItems += `
             <div>
                 <a class="urlLink" target='_blank' href='${listOFlinks[i].url}'>
-<<<<<<< HEAD
-                <img src="pin_PNG54.png.crdownload" alt="" class="service-icon">
-=======
-                <img src="pin.png" alt="" class="service-icon">
->>>>>>> d91559556b58146d311a989d647b829fac3a4690
+
+                <img src="./images/newpin.svg" alt="" class="service-icon">
+
                     ${listOFlinks[i].title}
                 </a>
             </div>
